@@ -11,6 +11,14 @@
       "kid": "treatspace-cerner-nonprod-2026-06",
       "n": "sNrfXfVjz0ViZCOVNaRhWKNIObxBn87McCndgtqSV6powCaD6CAB1TCJll4f-BZiTLZJ2_gWaeJDQdRFO3ZVFMG9NapzBv7ASUJ1K9hWKsGNiRPpb6Evl55VpsfZvygwHbFvUDXh5AS_UwGCU-zc7QF1SX36h-50ZatNocGHBr84YkH3E621miggF3bRt33TPSheIkF2DVEVaA0gFuoX4asgMUGoazQldbrAIG6awFD7GUPk2knfKGEMaiDkn-Y8h8BzKwkuOvehnH9u6v8zkmF8YorpNSFVSZvxSf7iAgbb6MdInTHDVzPW8JjEU6Lvgv1Ph8ukRPXunO4Ar4cD7Q",
       "e": "AQAB"
+    },
+    {
+      "kty": "RSA",
+      "kid": "veradigm",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "tuwALpeYdqV7Uk-5-ky10FCPQa2UacCj_LcQAM8hrJqI_Nl8DBhC7bb-lOhAqomFpH_tenWN3igbCtQzCjBFeMRCB76ncX3ammwPrNlmrmoL2OCd912u1al8O3xu_oQ4nWu9Rh5zWv7Cn522pMloxyZfyxAc13UsZubtXelXCdeIRUKQhhuKam-cKufwWnQ57ZsgyWbD5RfsaAoyPzENTtBWb_JmYkieRZ8Xw5Uid4MU1XFWV0vNTH5iVRZHEjPv13UqyFN8AYwS3uSBWujDXzfuPhZ6f5DE-iG24BliazgwOoJCdA4ZKgZMirWeEIvJTxMx-09dURXY42jAmj_8EQ",
+      "e": "AQAB"
     }
   ]
 }
