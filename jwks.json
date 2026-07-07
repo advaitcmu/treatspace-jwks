@@ -2,13 +2,17 @@
   "keys": [
     {
       "kty": "RSA",
-      "kid": "treatspace-epic-nonprod-2026-06",
+      "kid": "epic",
+      "use": "sig",
+      "alg": "RS384",
       "n": "24UbTB-ufxU7sYHBYEnGq5YRORRgQvT5DA0RvKaXNFOiKzCSvtcuqA-dHgpx7A9CRXI7_SPIBlqGG6l7FXyhpaEXd_BKJLiRwq_awRXTxD-Dx342RXmsN0a4lORRfy0eKo3l73eP04R8CxlP9iQFDDVMmSf_dippgNXh7-Vz2mhZgI3XU5ai0S_s_WNtrmDulCWxfQYf_iF1Nf7Y9yu7ld29vK7u6_ZkAyViKWqfCuGPFzA9qjUeNhnCaRXqvxeRb-avnptk4-AGL7PIjwS_RkyEBmYX4ylOP_fMRmJQT4iuZv4yWNNwxTAyLA-1mO24RXxEdmD0HQyT_Ni1GTR8SQ",
       "e": "AQAB"
     },
     {
       "kty": "RSA",
-      "kid": "treatspace-cerner-nonprod-2026-06",
+      "kid": "cerner",
+      "use": "sig",
+      "alg": "RS384",
       "n": "sNrfXfVjz0ViZCOVNaRhWKNIObxBn87McCndgtqSV6powCaD6CAB1TCJll4f-BZiTLZJ2_gWaeJDQdRFO3ZVFMG9NapzBv7ASUJ1K9hWKsGNiRPpb6Evl55VpsfZvygwHbFvUDXh5AS_UwGCU-zc7QF1SX36h-50ZatNocGHBr84YkH3E621miggF3bRt33TPSheIkF2DVEVaA0gFuoX4asgMUGoazQldbrAIG6awFD7GUPk2knfKGEMaiDkn-Y8h8BzKwkuOvehnH9u6v8zkmF8YorpNSFVSZvxSf7iAgbb6MdInTHDVzPW8JjEU6Lvgv1Ph8ukRPXunO4Ar4cD7Q",
       "e": "AQAB"
     },
