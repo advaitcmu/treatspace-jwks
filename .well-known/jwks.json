@@ -2,7 +2,7 @@
   "keys": [
     {
       "kty": "RSA",
-      "kid": "verdigm",
+      "kid": "veradigm",
       "use": "sig",
       "alg": "RS256",
       "n": "yAlyKGMOZwwauaeJiXzcWINa3NUL3qw4tMgQqU8V9RLxpm1URa8UzQMD4dwVyGcL_ayvsD664sQPAm6S1h6l8er8TpOtRRvRdP-9hES9COao3t_phvB6e-ShGkWvINsnRhhlT1igdelvnIhECXO1yOq3a7fK-v1kFkaV0dtdWcpeBLEagPAVnex_4wFJwils5VfeeSMlKNZlgFVy6i5ugiuCd95UQGIq1Jnxm0AKQz6w1FsfyZK-OpFXZZht_3RDiOGbYXrejpcQwa7L25wAHoMLr6frVFfQcy4BmY24Ncmm6ACZQ8jPdKwl52QEZQdepFUzyHLe3B-FGTW8kajPhQ",
